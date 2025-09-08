@@ -70,7 +70,7 @@ The goal of this project is to ensure the smooth functionality of the website by
 **1. Clone the Repository**
 First, clone this repository to your local machine:
 ````
-https://github.com/204g1a0522/SauceDemo_webapp
+https://github.com/204g1a0522/SauceDemo_webapp.git
 
 ````
 **2. Set Up Java and Maven**
