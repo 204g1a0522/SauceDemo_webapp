@@ -71,7 +71,7 @@ The goal of this project is to ensure the smooth functionality of the website by
 First, clone this repository to your local machine:
 ````
 
-https://github.com/rahulchandradasrcd/sauce_demo_web_automation_pom_using_selenium_with_allure_report.git
+https://github.com/Bhavanasrcd/sauce_demo_web_automation_pom_using_selenium_with_allure_report.git
 ````
 **2. Set Up Java and Maven**
 Ensure Java 8 or higher and Maven 3.x are installed on your machine.
