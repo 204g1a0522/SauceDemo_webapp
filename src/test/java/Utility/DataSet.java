@@ -15,7 +15,7 @@ public class DataSet {
     @DataProvider(name = "inValidCredentials")
     public static Object InValidCredentials(){
         Object[][] data = {
-                {"rahul_user", "rahul5"}
+                {"Bhavana_user", "bhavana11"}
         };
         return data;
     }
